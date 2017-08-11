@@ -1,5 +1,6 @@
 # Programming_I
 Attendance for Programming I class
+Dr. JAVA ----> writin gprogram
 
 Class I
 Lecture Tue 10.30-12.20
@@ -30,7 +31,7 @@ II. computer can putout information
   put, output, display  : show on monitor
   Poomt :Show something/wait for input (ATM)
   
-III. Computer canperformatic
+III. Computer can perform arithmetic
   Compute
   *, /, +, -, (), %
   calculate
@@ -52,3 +53,5 @@ VI. Computer can repeat group of action.
   ex. dowhile student_total<50
       read student_record
       print student
+      
+ 
