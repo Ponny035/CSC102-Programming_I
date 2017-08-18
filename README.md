@@ -54,4 +54,9 @@ VI. Computer can repeat group of action.
       read student_record
       print student
       
- 
+LAB 2
+  class start with Capital 
+  declare var use camel-case
+  declare constat all cap
+  
+  
