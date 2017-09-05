@@ -59,4 +59,21 @@ LAB 2
   declare var use camel-case
   declare constat all cap
   
+class 6
+a++ --> + --> a++
+ array
+ int a[]= new int[10]; || int a[]= {1,2,3,4,5,6,7,8,9}
+    ---- [0][0][0][0][0][0][0][0][0][0]
+    |
+    v
+ a [ ] 
+ default
+ int 0
+ float 0.0
+ char \u0000
+ boolean false
+ 
+ String a[] = new String[5];
+ a[0]="Hello world";
+ a[0]= new String("Java");
   
