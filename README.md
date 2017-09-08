@@ -59,7 +59,7 @@ LAB 2
   declare var use camel-case
   declare constat all cap
   
-class 6
+class 5
 a++ --> + --> a++
  array
  int a[]= new int[10]; || int a[]= {1,2,3,4,5,6,7,8,9}
@@ -76,4 +76,32 @@ a++ --> + --> a++
  String a[] = new String[5];
  a[0]="Hello world";
  a[0]= new String("Java");
+ 
+ 
+ LAB 5
+  array is object
+  can be array of array
+  int [] a=new int[10];
   
+  for-each loop
+  for((array type) i : (array name))
+  {
+    System.out.println(i);
+  }
+  
+  anyType var;
+  switch (var)
+  {
+    case x:
+      something;
+      break;
+    case y:              equal case ...:case ...:    or   case ...:
+      something1;               something1;               case ...:
+    case z:                     something2;                 something1;
+      something2;                                           something2;
+     
+   default: 
+      something3;
+      break;
+  }
+  more at https://docs.oracle.com/javase/tutorial/java/nutsandbolts/switch.html
