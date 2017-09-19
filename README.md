@@ -21,7 +21,7 @@ Quiz
 Do or Die Exam
 
 **VI Basic Computer** 
-I. computer canrecive information
+I. computer can recive information
   Read  :recive data 
   Get : input from user
 
@@ -33,7 +33,7 @@ II. computer can putout information
   
 III. Computer can perform arithmetic
   Compute
-  *, /, +, -, (), %
+  *, /, +, -, (), %,boolean Exp.
   calculate
     C=(f-32)*5/9
   Total=total+sum
@@ -55,7 +55,7 @@ VI. Computer can repeat group of action.
       print student
       
 LAB 2
-  class start with Capital 
+  ***class start with Capital*** 
   declare var use camel-case
   declare constat all cap
   
@@ -105,3 +105,47 @@ a++ --> + --> a++
       break;
   }
   more at https://docs.oracle.com/javase/tutorial/java/nutsandbolts/switch.html
+  
+  mid test review
+  2nd Oct
+   3 has Exam
+    2 part
+      mutiple 
+      write
+        code
+        essay
+   1 test java programming
+   2 algorithm design
+      flowchart
+      psedocode
+      java programming
+   3 selection
+    if else
+    switch case
+  4 repetition
+    do while
+    while
+    for
+  5 Array
+    1D
+    2D
+  6 String obj.
+  review 
+    main will complie first
+    algorithm
+      finite sequence of steps of inInstution for sloving a ploblem.
+      premitive
+        int short byte long double float boolean char
+      ganeric data type
+        String
+        Array
+        Voctor
+        array list 
+     class structure
+      keyword  visibility :public private protecd
+        return 
+      camel case  for var
+      _ and all cap for constant 
+        your own data type
+        
+      
